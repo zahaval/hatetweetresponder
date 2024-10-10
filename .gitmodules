@@ -1,0 +1,15 @@
+[submodule "Downloads/myproject/lib/forge-std"]
+	path = Downloads/myproject/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "Downloads/myproject/lib/openzeppelin-contracts"]
+	path = Downloads/myproject/lib/openzeppelin-contracts
+	url = https://github.com/openzeppelin/openzeppelin-contracts
+[submodule "OA_final_project/lib/forge-std"]
+	path = OA_final_project/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "OA_final_project/lib/openzeppelin-contracts"]
+	path = OA_final_project/lib/openzeppelin-contracts
+	url = https://github.com/openzeppelin/openzeppelin-contracts
+[submodule "OA_final_project/lib/chainlink"]
+	path = OA_final_project/lib/chainlink
+	url = https://github.com/smartcontractkit/chainlink
